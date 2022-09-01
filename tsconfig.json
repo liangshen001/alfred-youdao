@@ -1,0 +1,6 @@
+{
+    "extends": "@liangshen/tsconfig",
+    "compilerOptions": {
+        "target": "ESNext"
+    }
+}
